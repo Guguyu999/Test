@@ -1,0 +1,36 @@
+/*通用样式*/
+*{
+	list-style: none;/*清除列表样式*/
+	text-decoration: none;/*清除所有链接下划线*/
+}
+
+.body{
+	background: url(bg.jpg);
+	background-size: 100%;
+}
+
+.login_border{
+   width: 500px;
+   height: 300px;
+   position: fixed;
+   background-color: #F3F8FB;
+   margin: auto;
+   top: 0px;
+   right: 0px;
+   bottom: 0px;
+   left: 0px;
+   border-radius: 30px;
+   opacity: 0.8;
+}
+.login_border .contain{
+	width: 245px;
+	height: 200px;
+	/*border: dashed 1px #000000;*/
+	margin: 60px auto 0 auto;
+	line-height: 60px;
+	font-family: 幼圆;
+	font-size: 18px;
+}
+.login_border .contain .submit{
+	margin-left:100px;
+}

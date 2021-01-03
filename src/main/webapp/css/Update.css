@@ -1,0 +1,105 @@
+/*通用样式*/
+*{
+	list-style: none;/*清除列表样式*/
+	text-decoration: none;/*清除所有链接下划线*/
+}
+
+.body{
+	background: url(bg.jpg);
+	background-size: 100%;
+}
+
+/*导航区域样式*/
+.dao-area{
+	height: 44px;
+	background:  #56B2E7;
+	margin-top: 10px;
+}
+.dao-area .user .message a{
+	float: left;
+	margin-left: 60px;
+	width: 100px;
+	height: 44px;
+	font-size: 18px;
+	font-family: 幼圆;
+	line-height: 44px;
+	color: #fff;
+}
+.dao-area .user .message a:hover{
+	font-family: 幼圆;
+	font-weight: bold;
+	color: #000;
+}
+#update a{
+	font-weight: bold;
+	color: #000;
+}
+.dao-area .container{
+	float: right;
+	width: 500px;
+	height: 44px;
+}
+.dao-area .container .menu{
+	width: 500px;
+	height: 44px;
+	margin: 0;
+	padding: 0;
+}
+.dao-area .message{
+	width: 113px;
+	height: 44px;
+	display: inline-block;/*使列表成一行显示,成为行块*/
+	position: relative;
+}
+
+.dao-area .container .menu .message>a{
+	width: 90px;
+	height: 44px;
+	font-size: 18px;
+	font-family: 幼圆;
+	color: #fff;
+	line-height: 44px;
+}
+.dao-area .container .menu .message>a:hover{
+	font-family: 幼圆;
+	font-weight: bold;
+	color: #000;
+}
+
+.show_border{
+    width: 800px;
+    height: 500px;
+    position: fixed;
+    background-color: #F3F8FB;
+    margin: auto;
+    margin-top: 100px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    border-radius: 30px;
+    opacity: 0.8;
+}
+.show_border .left-container{
+	float: left;
+	width: 266px;
+	height: 336px;
+	/*border: dashed 1px #000000;*/
+	margin: 66px auto 0 86px;
+	line-height: 36px;
+	font-family: 幼圆;
+	font-size: 16px;
+}
+.show_border .contain{
+	float: right;
+	width: 260px;
+	height: 336px;
+	/*border: dashed 1px #000000;*/
+	margin: 56px 86px 0 auto;
+	line-height: 56px;
+	font-family: 幼圆;
+	font-size: 18px;
+}
+.show_border .contain .submit{
+	margin-left:120px;
+}
