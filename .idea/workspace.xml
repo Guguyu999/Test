@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aa91b1b-3bbd-4830-85bd-2dfccdb2b1ff" name="Default Changelist" comment="" />
+    <list default="true" id="2aa91b1b-3bbd-4830-85bd-2dfccdb2b1ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -44,6 +49,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1mDacJygfXXziOgvYQ0YverYcNp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +57,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../练手/Studentdorm" />
@@ -272,11 +279,16 @@
       <workItem from="1609460781836" duration="6139000" />
       <workItem from="1609469802109" duration="34111000" />
       <workItem from="1609644494455" duration="261000" />
+      <workItem from="1609661856264" duration="778000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="WindowStateProjectService">
     <state x="324" y="22" key="#Web_Browsers" timestamp="1609120241363">
@@ -299,6 +311,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1609317081096" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1609662470960">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1609662470960" />
     <state x="602" y="156" key="FileChooserDialogImpl" timestamp="1609582404221">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
